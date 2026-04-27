@@ -1,6 +1,6 @@
 name: Latest blog post workflow
 
-on:
+'on':
   schedule:
     - cron: '0 */6 * * *'
   workflow_dispatch:
@@ -10,6 +10,7 @@ permissions:
 
 jobs:
   update-readme-with-blog:
+    name: Update README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
