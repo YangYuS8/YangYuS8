@@ -23,13 +23,13 @@ func main() {
         Name:     "YangYuS8",
         Role:     "Full Stack Developer",
         Location: "Earth 🌍",
-        Learning: []string{"Rust", "K8s", "System Design"},
+        Learning: []string{"Rust", "Kubernetes", "Observability", "System Design"},
     }
 }
 ```
 
 - 🔭 Currently building full-stack applications with modern frameworks
-- 🌱 Learning **Rust**, **Kubernetes**, and **System Architecture**
+- 🌱 Recently learning **Kubernetes**, **observability**, **Linux/Git workflows**, and **system design**
 - 💻 Love working with **Vue**, **React**, **Go**, and **Python**
 - 🐧 Passionate about **Linux** (ArchLinux, EndeavourOS, CachyOS, Ubuntu)
 - 🚀 Always exploring new technologies and contributing to open source
@@ -47,6 +47,7 @@ Backend:
 DevOps:
   - Docker, Kubernetes
   - CI/CD, Cloud Services
+  - Grafana, Loki, Alloy
 
 Operating Systems:
   - ArchLinux, EndeavourOS, CachyOS
@@ -56,6 +57,22 @@ Operating Systems:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vue,react,nextjs,nodejs,go,rust,python,ts,js,docker,kubernetes,linux,arch,ubuntu,nix,git&perline=8" />
 </p>
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ More posts at: <https://blog.yangyus8.top>
+
+## 📚 Recently Learning
+
+Based on my recent blog posts, I'm currently focused on:
+
+- ☸️ **Kubernetes / k3s** hands-on practice
+- 📜 **Observability & logging pipelines** with **Loki**, **Grafana**, and **Grafana Alloy**
+- 🔍 Understanding the differences between **ELK / EFK / Loki** for log system selection
+- 🔐 Better **GitHub SSH workflows** for more stable Git usage across devices and servers
 
 ## 🐧 Linux Philosophy
 
@@ -84,9 +101,9 @@ Operating Systems:
 ## 🎯 Current Focus
 
 - 🦀 Deep diving into **Rust** for systems programming
-- ☸️ Mastering **Kubernetes** and cloud-native technologies
-- 🏗️ Learning advanced **system design** patterns
-- 🌟 Contributing to open source projects
+- ☸️ Building stronger intuition for **Kubernetes** and cloud-native tooling
+- 📈 Exploring **logging / observability stacks** like **Loki + Grafana + Alloy**
+- 🏗️ Learning more practical **system design** patterns
 
 ## 📫 Connect With Me
 
