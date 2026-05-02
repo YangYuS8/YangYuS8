@@ -63,11 +63,11 @@ Operating Systems:
 <!-- BLOG-POST-LIST:START -->
 - **[DevOps 实习面试常见 Shell 练习题 12 则](https://blog.yangyus8.top/posts/20260502-01/)**
 
+- **[Windows 上如何下载和使用 FlClash](https://blog.yangyus8.top/posts/20260502-02/)**
+
 - **[如何在 k3s 里部署和使用 Loki：按官方当前推荐路线完成一次最小可用实践](https://blog.yangyus8.top/posts/20260421-02/)**
 
 - **[ELK、EFK 和 Loki 分别是什么：面向日志系统选型的一篇横向对比](https://blog.yangyus8.top/posts/20260421-01/)**
-
-- **[为什么我的 kube-prometheus-stack 总装不上：从 Helm 报错到 k3s 代理配置的排查记录](https://blog.yangyus8.top/posts/20260420-02/)**
 
 - **[Helm 是什么，应该怎么安装和使用：给 Kubernetes 新手的一篇实战入门](https://blog.yangyus8.top/posts/20260420-01/)**
 <!-- BLOG-POST-LIST:END -->
