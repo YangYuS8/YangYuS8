@@ -61,15 +61,15 @@ Operating Systems:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- **[DevOps 实习面试常见 Shell 练习题 12 则](https://blog.yangyus8.top/posts/20260502-01/)**
+
 - **[如何在 k3s 里部署和使用 Loki：按官方当前推荐路线完成一次最小可用实践](https://blog.yangyus8.top/posts/20260421-02/)**
 
 - **[ELK、EFK 和 Loki 分别是什么：面向日志系统选型的一篇横向对比](https://blog.yangyus8.top/posts/20260421-01/)**
 
-- **[Helm 是什么，应该怎么安装和使用：给 Kubernetes 新手的一篇实战入门](https://blog.yangyus8.top/posts/20260420-01/)**
-
 - **[为什么我的 kube-prometheus-stack 总装不上：从 Helm 报错到 k3s 代理配置的排查记录](https://blog.yangyus8.top/posts/20260420-02/)**
 
-- **[Git SSH 密钥怎么配：从生成密钥到让 GitHub 走 SSH 的一份完整上手教程](https://blog.yangyus8.top/posts/20260418-01/)**
+- **[Helm 是什么，应该怎么安装和使用：给 Kubernetes 新手的一篇实战入门](https://blog.yangyus8.top/posts/20260420-01/)**
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ More posts at: <https://blog.yangyus8.top>
