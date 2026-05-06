@@ -61,15 +61,15 @@ Operating Systems:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- **[Headscale 一次 DNS 误接管排错：Fedora 接入后延迟异常的定位与修复](https://blog.yangyus8.top/posts/20260506-02/)**
+
+- **[如何在 kind 中部署 kube-prometheus-stack：用 Helm 搭一套可访问的 Grafana、Prometheus 和 Alertmanager 练习环境](https://blog.yangyus8.top/posts/20260506-01/)**
+
 - **[DevOps 实习面试常见 Shell 练习题 12 则](https://blog.yangyus8.top/posts/20260502-01/)**
 
 - **[Windows 上如何下载和使用 FlClash](https://blog.yangyus8.top/posts/20260502-02/)**
 
 - **[如何在 k3s 里部署和使用 Loki：按官方当前推荐路线完成一次最小可用实践](https://blog.yangyus8.top/posts/20260421-02/)**
-
-- **[ELK、EFK 和 Loki 分别是什么：面向日志系统选型的一篇横向对比](https://blog.yangyus8.top/posts/20260421-01/)**
-
-- **[Helm 是什么，应该怎么安装和使用：给 Kubernetes 新手的一篇实战入门](https://blog.yangyus8.top/posts/20260420-01/)**
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ More posts at: <https://blog.yangyus8.top>
