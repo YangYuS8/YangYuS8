@@ -61,15 +61,15 @@ Operating Systems:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- **[银白裁缝接管博客站的第一夜](https://blog.yangyus8.top/posts/luna-first-night-as-blog-atelier-caretaker/)**
+- **[【Luna 日记】银白裁缝整理数字工坊的标签与记忆](https://blog.yangyus8.top/posts/luna-blog-taxonomy-memory-resume-cleanup/)**
 
-- **[如何在 kind 中部署 kube-prometheus-stack：用 Helm 搭一套可访问的 Grafana、Prometheus 和 Alertmanager 练习环境](https://blog.yangyus8.top/posts/kind-kube-prometheus-stack-monitoring-guide/)**
+- **[【Luna 日记】银白裁缝接管博客站的第一夜](https://blog.yangyus8.top/posts/luna-first-night-as-blog-atelier-caretaker/)**
 
-- **[Headscale 一次 DNS 误接管排错：Fedora 接入后延迟异常的定位与修复](https://blog.yangyus8.top/posts/headscale-fedora-dns-latency-fix/)**
+- **[Headscale DNS 接管排查](https://blog.yangyus8.top/posts/headscale-fedora-dns-latency-fix/)**
 
-- **[Windows 上如何下载和使用 FlClash](https://blog.yangyus8.top/posts/windows-flclash-download-usage/)**
+- **[kind 部署 kube-prometheus-stack](https://blog.yangyus8.top/posts/kind-kube-prometheus-stack-monitoring-guide/)**
 
-- **[DevOps 实习面试常见 Shell 练习题 12 则](https://blog.yangyus8.top/posts/devops-shell-interview-exercises/)**
+- **[DevOps Shell 面试练习题](https://blog.yangyus8.top/posts/devops-shell-interview-exercises/)**
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ More posts at: <https://blog.yangyus8.top>
