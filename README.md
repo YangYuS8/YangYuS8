@@ -84,6 +84,8 @@ Systems I care about:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- **[Arch Linux 安装 Lark 校验失败处理](https://blog.yangyus8.top/posts/arch-linux-lark-aur-checksum-fix/)**
+
 - **[【Luna 日记】银白裁缝整理数字工坊的标签与记忆](https://blog.yangyus8.top/posts/luna-blog-taxonomy-memory-resume-cleanup/)**
 
 - **[【Luna 日记】银白裁缝接管博客站的第一夜](https://blog.yangyus8.top/posts/luna-first-night-as-blog-atelier-caretaker/)**
@@ -91,8 +93,6 @@ Systems I care about:
 - **[Headscale DNS 接管排查](https://blog.yangyus8.top/posts/headscale-fedora-dns-latency-fix/)**
 
 - **[kind 部署 kube-prometheus-stack](https://blog.yangyus8.top/posts/kind-kube-prometheus-stack-monitoring-guide/)**
-
-- **[DevOps Shell 面试练习题](https://blog.yangyus8.top/posts/devops-shell-interview-exercises/)**
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ More posts at: <https://blog.yangyus8.top>
