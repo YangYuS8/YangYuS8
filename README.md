@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm YangYuS8
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Linux+%26+Arch+Lover" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Linux+Desktop+%26+DevOps+Learner;Rust+%2F+Go+%2F+TypeScript+Builder;Open+Source+and+Homelab+Explorer" alt="Typing SVG" />
 
 </div>
 
@@ -13,49 +13,72 @@ package main
 
 type Developer struct {
     Name      string
-    Role      string
-    Location  string
+    Focus     []string
+    Building  []string
     Learning  []string
 }
 
 func main() {
     me := Developer{
-        Name:     "YangYuS8",
-        Role:     "Full Stack Developer",
-        Location: "Earth 🌍",
-        Learning: []string{"Rust", "Kubernetes", "Observability", "System Design"},
+        Name: "YangYuS8",
+        Focus: []string{
+            "Linux desktop workflows",
+            "DevOps and cloud-native practice",
+            "open-source tools for real daily problems",
+        },
+        Building: []string{
+            "LWE: Wallpaper Engine content on Linux",
+            "homelab / Kubernetes experiments",
+            "small AI-assisted developer tools",
+        },
+        Learning: []string{
+            "Rust", "Go", "Kubernetes", "observability", "system design",
+        },
     }
+
+    _ = me
 }
 ```
 
-- 🔭 Currently building full-stack applications with modern frameworks
-- 🌱 Recently learning **Kubernetes**, **observability**, **Linux/Git workflows**, and **system design**
-- 💻 Love working with **Vue**, **React**, **Go**, and **Python**
-- 🐧 Passionate about **Linux** (ArchLinux, EndeavourOS, CachyOS, Ubuntu)
-- 🚀 Always exploring new technologies and contributing to open source
+- 🐧 I use and maintain my daily workstation around **Arch / CachyOS**, dotfiles, and Linux desktop workflows.
+- 🦀 Currently building **[LWE](https://github.com/YangYuS8/lwe)** — a Rust + Tauri 2 + Svelte Linux desktop app for browsing, managing, and applying Wallpaper Engine content.
+- ☸️ Practicing **Kubernetes**, **DevOps**, CI/CD, and observability through labs, blog posts, and small tools.
+- 🧰 Comfortable moving across **Rust**, **Go**, **TypeScript**, **Python**, **PHP**, and shell scripts when the problem needs it.
+- ✍️ I write notes and tutorials on my blog: <https://blog.yangyus8.top>
+
+## 🧵 Featured Work
+
+| Project | What it is | Stack / Keywords |
+| --- | --- | --- |
+| **[lwe](https://github.com/YangYuS8/lwe)** | Linux desktop app for Wallpaper Engine migration workflows, with AUR packages, GitHub Releases, and bilingual docs. | Rust, Tauri 2, Svelte, Wayland, AUR |
+| **[k8s-lab](https://github.com/YangYuS8/k8s-lab)** | Local Kubernetes lab notes and deployment experiments. | Kubernetes, Shell, DevOps |
+| **[kube-sentinel](https://github.com/YangYuS8/kube-sentinel)** | Event-driven Kubernetes self-healing controller experiment. | Go, Kubernetes |
+| **[dotfiles](https://github.com/YangYuS8/dotfiles)** | Personal Linux workstation configuration managed with GNU Stow. | Shell, Linux, Stow |
+| **[blog](https://github.com/YangYuS8/blog)** | My personal technical blog source. | Astro, Markdown |
 
 ## 🛠️ Tech Stack
 
 ```yaml
-Frontend:
-  - Vue.js, React, Next.js
-  - TypeScript, JavaScript, HTML/CSS
+Languages:
+  - Rust, Go, TypeScript, Python, PHP, Shell
 
-Backend:
-  - Node.js, Go, Python, Rust
+Frontend & Desktop:
+  - Svelte, Vue, React, Next.js
+  - Tauri, Electron
 
-DevOps:
-  - Docker, Kubernetes
-  - CI/CD, Cloud Services
+Backend & DevOps:
+  - Linux, Git, CI/CD
+  - Docker / Podman, Kubernetes
   - Grafana, Loki, Alloy
 
-Operating Systems:
-  - ArchLinux, EndeavourOS, CachyOS
-  - Ubuntu, Linux in general
+Systems I care about:
+  - Arch / CachyOS workstation workflows
+  - Homelab automation
+  - Practical open-source maintenance
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,react,nextjs,nodejs,go,rust,python,ts,js,docker,kubernetes,linux,arch,ubuntu,nix,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=rust,go,ts,python,php,svelte,vue,react,nextjs,tauri,electron,docker,kubernetes,linux,arch,git&perline=8" alt="Skill icons" />
 </p>
 
 ## 📝 Latest Blog Posts
@@ -74,54 +97,35 @@ Operating Systems:
 
 ➡️ More posts at: <https://blog.yangyus8.top>
 
-## 📚 Recently Learning
+## 🎯 Current Focus
 
-Based on my recent blog posts, I'm currently focused on:
-
-- ☸️ **Kubernetes / k3s** hands-on practice
-- 📜 **Observability & logging pipelines** with **Loki**, **Grafana**, and **Grafana Alloy**
-- 🔍 Understanding the differences between **ELK / EFK / Loki** for log system selection
-- 🔐 Better **GitHub SSH workflows** for more stable Git usage across devices and servers
-
-## 🐧 Linux Philosophy
-
-<div align="center">
-
-**"I use Arch btw"** 😎
-
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-<img src="https://img.shields.io/badge/EndeavourOS-7F7FFF?style=for-the-badge&logo=endeavouros&logoColor=white" />
-<img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-
-</div>
+- 🦀 Improving **LWE** as a practical Linux desktop app, including packaging, docs, and runtime compatibility.
+- ☸️ Building stronger intuition for **Kubernetes**, controllers, local clusters, and troubleshooting workflows.
+- 📈 Learning practical **observability** with **Grafana**, **Loki**, and **Alloy**.
+- 🧪 Turning course projects, labs, and homelab experiments into reusable notes instead of one-off homework.
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YangYuS8&theme=tokyonight" height="180em" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YangYuS8&theme=tokyonight" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YangYuS8&theme=tokyonight" height="180em" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YangYuS8&theme=tokyonight" height="180em" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YangYuS8&theme=tokyonight" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YangYuS8&theme=tokyonight" alt="GitHub profile summary" />
 </div>
-
-## 🎯 Current Focus
-
-- 🦀 Deep diving into **Rust** for systems programming
-- ☸️ Building stronger intuition for **Kubernetes** and cloud-native tooling
-- 📈 Exploring **logging / observability stacks** like **Loki + Grafana + Alloy**
-- 🏗️ Learning more practical **system design** patterns
 
 ## 📫 Connect With Me
 
 <p align="center">
   <a href="https://github.com/YangYuS8">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://blog.yangyus8.top">
+    <img src="https://img.shields.io/badge/Blog-58A6FF?style=for-the-badge&logo=astro&logoColor=white" alt="Blog" />
   </a>
   <a href="mailto:YangYuS8@163.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -129,8 +133,8 @@ Based on my recent blog posts, I'm currently focused on:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YangYuS8&color=blueviolet&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=YangYuS8&color=blueviolet&style=flat-square" alt="Profile views" />
 
-  **Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
+**Thanks for visiting. If something here helps you, a star or a note is always welcome.**
 
 </div>
