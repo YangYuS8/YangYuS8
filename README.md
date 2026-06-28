@@ -86,13 +86,13 @@ Systems I care about:
 <!-- BLOG-POST-LIST:START -->
 - **[Dockge Compose 管理体系](https://blog.yangyus8.top/posts/dockge-compose-management-workflow/)**
 
+- **[媒体基础设施路径规划](https://blog.yangyus8.top/posts/homelab-media-storage-download-layout/)**
+
+- **[媒体自动化服务迁移](https://blog.yangyus8.top/posts/homelab-media-automation-migration/)**
+
+- **[容器更新策略与 Watchtower 取舍](https://blog.yangyus8.top/posts/homelab-container-update-policy-watchtower/)**
+
 - **[OpenWrt 旁路代理网关部署](https://blog.yangyus8.top/posts/openwrt-sidecar-proxy-gateway/)**
-
-- **[PVE 服务分层迁移记录](https://blog.yangyus8.top/posts/pve-service-layering-migration/)**
-
-- **[Arch Linux 安装 Lark 校验失败处理](https://blog.yangyus8.top/posts/arch-linux-lark-aur-checksum-fix/)**
-
-- **[KVM 虚拟机 DHCP 排查](https://blog.yangyus8.top/posts/kvm-libvirt-ufw-dhcp-troubleshooting/)**
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ More posts at: <https://blog.yangyus8.top>
