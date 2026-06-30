@@ -84,6 +84,8 @@ Systems I care about:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- **[运维工程师一面复盘：上线流程、Docker 与 Linux 基础](https://blog.yangyus8.top/posts/ops-interview-review-linux-docker-release/)**
+
 - **[Dockge Compose 管理体系](https://blog.yangyus8.top/posts/dockge-compose-management-workflow/)**
 
 - **[媒体基础设施路径规划](https://blog.yangyus8.top/posts/homelab-media-storage-download-layout/)**
@@ -91,8 +93,6 @@ Systems I care about:
 - **[媒体自动化服务迁移](https://blog.yangyus8.top/posts/homelab-media-automation-migration/)**
 
 - **[容器更新策略与 Watchtower 取舍](https://blog.yangyus8.top/posts/homelab-container-update-policy-watchtower/)**
-
-- **[OpenWrt 旁路代理网关部署](https://blog.yangyus8.top/posts/openwrt-sidecar-proxy-gateway/)**
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ More posts at: <https://blog.yangyus8.top>
