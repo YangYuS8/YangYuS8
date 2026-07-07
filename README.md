@@ -84,6 +84,8 @@ Systems I care about:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- **[Project OS Skills：把 Agent 开发变成产品工程系统](https://blog.yangyus8.top/posts/project-os-skills-product-engineering-os/)**
+
 - **[运维工程师一面复盘：上线流程、Docker 与 Linux 基础](https://blog.yangyus8.top/posts/ops-interview-review-linux-docker-release/)**
 
 - **[Dockge Compose 管理体系](https://blog.yangyus8.top/posts/dockge-compose-management-workflow/)**
@@ -91,8 +93,6 @@ Systems I care about:
 - **[媒体基础设施路径规划](https://blog.yangyus8.top/posts/homelab-media-storage-download-layout/)**
 
 - **[媒体自动化服务迁移](https://blog.yangyus8.top/posts/homelab-media-automation-migration/)**
-
-- **[容器更新策略与 Watchtower 取舍](https://blog.yangyus8.top/posts/homelab-container-update-policy-watchtower/)**
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ More posts at: <https://blog.yangyus8.top>
