@@ -84,6 +84,8 @@ Systems I care about:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- **[Noctalia v5 迁移与 dotfiles 管理](https://blog.yangyus8.top/posts/noctalia-v5-dotfiles-stow-migration/)**
+
 - **[Project OS Skills：把 Agent 开发变成产品工程系统](https://blog.yangyus8.top/posts/project-os-skills-product-engineering-os/)**
 
 - **[运维工程师一面复盘：上线流程、Docker 与 Linux 基础](https://blog.yangyus8.top/posts/ops-interview-review-linux-docker-release/)**
@@ -91,8 +93,6 @@ Systems I care about:
 - **[Dockge Compose 管理体系](https://blog.yangyus8.top/posts/dockge-compose-management-workflow/)**
 
 - **[媒体基础设施路径规划](https://blog.yangyus8.top/posts/homelab-media-storage-download-layout/)**
-
-- **[媒体自动化服务迁移](https://blog.yangyus8.top/posts/homelab-media-automation-migration/)**
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ More posts at: <https://blog.yangyus8.top>
