@@ -84,15 +84,15 @@ Systems I care about:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- **[WireGuard 访问家庭局域网的回程路由排查](https://blog.yangyus8.top/posts/wireguard-home-lan-return-route-snat/)**
+
+- **[WireGuard 中继节点转发排查](https://blog.yangyus8.top/posts/wireguard-relay-peer-forwarding-fix/)**
+
 - **[1Panel OpenResty 接管系统 Nginx 80 端口](https://blog.yangyus8.top/posts/1panel-openresty-take-over-nginx-port-80/)**
 
 - **[Noctalia v5 迁移与 dotfiles 管理](https://blog.yangyus8.top/posts/noctalia-v5-dotfiles-stow-migration/)**
 
 - **[Project OS Skills：把 Agent 开发变成产品工程系统](https://blog.yangyus8.top/posts/project-os-skills-product-engineering-os/)**
-
-- **[运维工程师一面复盘：上线流程、Docker 与 Linux 基础](https://blog.yangyus8.top/posts/ops-interview-review-linux-docker-release/)**
-
-- **[Dockge Compose 管理体系](https://blog.yangyus8.top/posts/dockge-compose-management-workflow/)**
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ More posts at: <https://blog.yangyus8.top>
