@@ -84,6 +84,8 @@ Systems I care about:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- **[CachyOS 启动卡死：定位并止损 systemd 重启风暴](https://blog.yangyus8.top/posts/cachyos-boot-freeze-systemd-restart-storm/)**
+
 - **[WireGuard 访问家庭局域网的回程路由排查](https://blog.yangyus8.top/posts/wireguard-home-lan-return-route-snat/)**
 
 - **[WireGuard 中继节点转发排查](https://blog.yangyus8.top/posts/wireguard-relay-peer-forwarding-fix/)**
@@ -91,8 +93,6 @@ Systems I care about:
 - **[1Panel OpenResty 接管系统 Nginx 80 端口](https://blog.yangyus8.top/posts/1panel-openresty-take-over-nginx-port-80/)**
 
 - **[Noctalia v5 迁移与 dotfiles 管理](https://blog.yangyus8.top/posts/noctalia-v5-dotfiles-stow-migration/)**
-
-- **[Project OS Skills：把 Agent 开发变成产品工程系统](https://blog.yangyus8.top/posts/project-os-skills-product-engineering-os/)**
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ More posts at: <https://blog.yangyus8.top>
